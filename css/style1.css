@@ -17,3 +17,11 @@
 input {
   margin-top: 0.5em;
 }
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  opacity: 50%;
+}
